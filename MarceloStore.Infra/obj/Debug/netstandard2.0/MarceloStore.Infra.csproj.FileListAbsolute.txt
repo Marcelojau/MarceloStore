@@ -1,0 +1,14 @@
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Infra.deps.json
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Infra.dll
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Infra.pdb
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.csprojAssemblyReference.cache
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.AssemblyInfoInputs.cache
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.AssemblyInfo.cs
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.dll
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.pdb
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Domain.dll
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Shared.dll
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Domain.pdb
+C:\Dev\MarceloStore\MarceloStore.Infra\bin\Debug\netstandard2.0\MarceloStore.Shared.pdb
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\MarceloStore\MarceloStore.Infra\obj\Debug\netstandard2.0\MarceloStore.Infra.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.csprojAssemblyReference.cache
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.AssemblyInfoInputs.cache
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.AssemblyInfo.cs
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.csproj.CoreCompileInputs.cache
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Api.deps.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Api.runtimeconfig.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Api.runtimeconfig.dev.json
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Api.dll
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Domain.dll
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Shared.dll
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Domain.pdb
+C:\Dev\MarceloStore\MarceloStore.Api\bin\Debug\netcoreapp2.2\MarceloStore.Shared.pdb
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.csproj.CopyComplete
+C:\Dev\MarceloStore\MarceloStore.Api\obj\Debug\netcoreapp2.2\MarceloStore.Api.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDOo8SFioE03HXfCNmVyfIiP/6QNLnH1ntHe4GdQ7WQrk+l1G7V5ZDGqOurjBf7HK3FflJnDxmHvB0m0Et/1Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\MarceloStore\\MarceloStore.Domain\\MarceloStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Comp_Desenvolvimento\\.nuget\\packages\\fluentvalidator\\2.0.2\\fluentvalidator.2.0.2.nupkg.sha512",
+    "C:\\Users\\Comp_Desenvolvimento\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
